@@ -24,13 +24,24 @@
 - **clear:** both.
 
 ## [Flex-box](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- Flex Container: parent element.
+- **Flex Container:** parent element.
   - **display:** flex
-  - **justify-content**: space-around
-  - **flex-direction**: column, row
+  - **justify-content**: space-around, space-between, flex-end, flex-start
+  - **flex-direction**: row | row-reverse | column | column-reverse.
 
-- Flex Item: child element.
+- **Flex Item:** child element.
   - **order**: 1, 2, 3
+
+- **Nesting:** set one element (div) inside the other.
+
+- **Axis:** 
+  - main: start, end
+  - cross: start, end  
+
+- **Flex-sizing:**
+  - flex: 1
+  - 
+
 
 # Equivalents
 ```
