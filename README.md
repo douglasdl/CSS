@@ -1,10 +1,28 @@
 # CSS
 
 ## Normal Flow
-- block: uses the whole line. The next element will go to the next line.
-- inline: uses only the required width for the the component in the line. The next element will keep in the same line.
+- **block:** uses the whole line. The next element will go to the next line.
+- **inline:** uses only the required width for the the component in the line. The next element will keep in the same line.
 
-- [Flex-box](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+## Table
+```html
+<table>
+  <tr>
+    <td>A</td>
+    <td>B</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>2</td>
+  </tr>
+</table>  
+```
+
+## Tableless
+
+
+## [Flex-box](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 # Equivalents
 ```
