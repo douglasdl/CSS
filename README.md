@@ -20,7 +20,8 @@
 ```
 
 ## Tableless
-
+- **float:** left, right.
+- **clear:** both.
 
 ## [Flex-box](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
