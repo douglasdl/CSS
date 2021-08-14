@@ -24,6 +24,13 @@
 - **clear:** both.
 
 ## [Flex-box](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- Flex Container: parent element.
+  - **display:** flex
+  - **justify-content**: space-around
+  - **flex-direction**: column, row
+
+- Flex Item: child element.
+  - **order**: 1, 2, 3
 
 # Equivalents
 ```
