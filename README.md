@@ -26,8 +26,10 @@
 ## [Flex-box](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - **Flex Container:** parent element.
   - **display:** flex
-  - **justify-content**: space-around, space-between, flex-end, flex-start
+  - **justify-content**: flex-start | flex-end | center | space-around | space-between | space-evenly.
   - **flex-direction**: row | row-reverse | column | column-reverse.
+  - **flex-wrap:** nowrap | wrap | wrap-reverse.
+  - **flex-flow** (flex-direction + flex-wrap): can use 1 or 2 properties.
 
 - **Flex Item:** child element.
   - **order**: 1, 2, 3
