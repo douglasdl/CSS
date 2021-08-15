@@ -37,8 +37,8 @@
   - **flex-basis:**  auto | 25px | 25% | 0.
   - **flex-grow:** 0 | 1 | 2 | 3.
   - **flex-shrink:** 1 | 0 | 2 | 3.
-  - **flex** (grow + shrink + basis): 1.
-  - **order:** 1, 2, 3.
+  - **flex** (grow + shrink + basis): can use 1, 2 or 3 properties.
+  - **order:** 0, 1, 2, 3.
 
 - **Nesting:** set one element (div) inside the other.
 
