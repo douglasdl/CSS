@@ -48,7 +48,6 @@
 
 - **Flex-sizing:**
   - flex: 1
-  - 
 
 
 # Equivalents
